@@ -10,7 +10,9 @@ namespace Console1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wello World!");
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hello GitHub!");
 
             // Delay
             Console.ReadKey(true);
