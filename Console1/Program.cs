@@ -10,6 +10,10 @@ namespace Console1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Wello World!");
+
+            // Delay
+            Console.ReadKey(true);
         }
     }
 }
